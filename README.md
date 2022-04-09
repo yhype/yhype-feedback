@@ -1,5 +1,7 @@
 # Ÿ HŸPE Feedback
 
+<a href="https://discord.gg/nFBSdHFyqm"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+
 Welcome to the Ÿ HŸPE! 🎉
 
 We're so excited for you to try our service and provide feedback about how it works.
